@@ -92,6 +92,7 @@ var userInput = function(choice){
         console.log('Wrong Input!');
     }
 }
+
 userInput('s');
 
 //Self note: Without spaces its 83 lines 
